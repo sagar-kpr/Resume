@@ -587,10 +587,29 @@ button:focus {
     color: #2857a4;
 }
 
+.mb-pink {
+    background-color: pink;
+}
+
+.mb-red {
+    background-color: rgb(207, 26, 26);
+}
+.mb-maroon {
+    background-color: maroon;
+}
+.mb-other {
+    background-color: burlywood;
+}
 .mb-blue {
     background-color: #2857a4;
 }
 
+.mb-sky {
+    background-color: #00bfff;
+}
+.mb-yellow {
+    background-color: #ffbf00;
+}
 .mb-orange {
     background-color: #ec4d1c;
 }
